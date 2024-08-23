@@ -1,2 +1,2 @@
 # portfolio-01
-A protfolio website build with Html, csss and little javaScript
+A portfolio website built with HTML, CSS and a little JavaScript with active from submission to google sheet
